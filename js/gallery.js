@@ -94,7 +94,6 @@ galleryList.addEventListener("click", (event) => {
   console.log(largeImageUrl);
 });
 
-
 galleryList.addEventListener("click", (event) => {
   event.preventDefault();
 

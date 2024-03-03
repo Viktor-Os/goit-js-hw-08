@@ -1,21 +1,13 @@
-.gallery-item {
- 
-
-
-}
 .gallery {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   gap: 10px;
-   max-width: 1128px;
+  max-width: 1128px;
   height: 300px;
   list-style: none;
 }
 .gallery-image {
   width: 300px;
-}
-.gallery-link {
- 
 }
